@@ -1,0 +1,84 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# C extensions
+*.c
+*.cpp
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+wheels/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+env/
+venv/
+ENV/
+venv.bak/
+*.env
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+*.py,cover
+coverage.xml
+*.log
+.cache
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# VS Code
+.vscode/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest
+.pytest_cache/
+*.pytest_cache/
+
+# Pre-commit cache
+.pre-commit-config.yaml~
+.pre-commit/
+
+# Docker-related files
+**/Dockerfile~
+**/docker-compose.yml~
+.dockerignore
+
+# API Keys
+.env
+
+# Generated .pyo files
+*.pyo
+
+# MacOS and Linux
+.DS_Store
+*.swp
+*~
